@@ -1,7 +1,3 @@
-Here’s a sample **README.md** for your Taxi Fare Prediction Model project:
-
----
-
 # Taxi Fare Prediction Model
 
 This repository contains a machine learning-based solution for predicting taxi fares. The project leverages Ridge Regression and Random Forest Regression algorithms to estimate fares based on input features such as pickup and drop-off locations and passenger count. The project is designed to improve transportation efficiency and enhance user experience in urban areas.
