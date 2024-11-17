@@ -47,7 +47,12 @@ Predicting taxi fares in advance is essential to improve passenger experience an
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit app:
+3. Download the Model:
+   Before running Streamlit app, download the model from
+   ```bash
+   https://drive.google.com/file/d/1UQWltwPBiRTzyovbKQ7jXXP33DI_uep1/view?usp=sharing
+   ```
+4. Run the Streamlit app:
    ```bash
    streamlit run Taxi_st.py
    ```
